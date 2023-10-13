@@ -1,5 +1,6 @@
 # uwaterloo-course-notes
-This repository contains my course notes for courses I have taken at the University of Waterloo. The notes are written in LaTex or Markdown.
+This repository contains my course notes for courses I have taken at the [University of Waterloo](https://uwaterloo.ca):man_student:. The notes are written in LaTex or Markdown, and exported to pdf.
+
 You can find my course notes for some *specific* courses here. The notes will be systematically updated at 23:59 on respective course days throughout the study term. I hope you find them useful!
 
 **Automated Updates for Uninterrupted Access**
@@ -13,8 +14,10 @@ To elucidate:
 
 Your understanding is appreciated if content updates experience any delays. I strive to provide the most current content and welcome your feedback and insights!
 
-## Availble Courses for the current/upcoming study term
-(will be updated at the beginning of the term - Winter 2024)
+## Availble course notes for the current/upcoming study term
+*Term: Winter 2024*
+
+(The list of availble course notes will be updated at the beginning of the term specified above)
 
 ## Available course notes for the past terms
 - CS 246 - Spring 2023
