@@ -12,7 +12,7 @@ To elucidate:
 - For courses scheduled on Monday, Wednesday, and Friday, the repository will be refreshed with new notes on those respective days, promptly at 23:59.
 - Similarly, if a course is slated for Tuesday and Thursday, updates will be facilitated at 23:59 on both days.
 
-Your understanding is appreciated if content updates experience any delays. I strive to provide the most current content and welcome your feedback and insights!
+Your understanding is appreciated if content updates experience any delays. I strive to provide the most current content and welcome your feedback and insights:heart:!
 
 ## Availble course notes for the current/upcoming study term
 *Term: Winter 2024*
