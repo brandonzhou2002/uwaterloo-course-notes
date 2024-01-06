@@ -21,7 +21,7 @@ Your understanding is appreciated if content updates experience any delays. I st
 - CS 348
 - STAT 330
 - STAT 331
-- STAt 341
+- STAT 341
 
 ## Available course notes for the past terms
 - CS 246 - Spring 2023
