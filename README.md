@@ -17,7 +17,11 @@ Your understanding is appreciated if content updates experience any delays. I st
 ## Availble course notes for the current/upcoming study term
 *Term: Winter 2024*
 
-(The list of availble course notes will be updated at the beginning of the term specified above)
+- CS 240
+- CS 348
+- STAT 330
+- STAT 331
+- STAT 341
 
 ## Available course notes for the past terms
 - CS 246 - Spring 2023
